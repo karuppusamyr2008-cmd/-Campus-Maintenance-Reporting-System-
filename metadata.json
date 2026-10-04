@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix - Campus Issue Reporting & Maintenance Tracker",
+  "description": "Real-time campus civic complaint reporting, assignment, maintenance tracking, interactive campus map, and resolution analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
